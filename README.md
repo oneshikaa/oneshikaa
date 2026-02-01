@@ -84,13 +84,6 @@
 
 ---
 
-## 🏆 Achievements  
-
-- **Top 10% Academic Standing** at Thapar Institute  
-- **Merit Scholarship (₹1.2L tuition waiver)**  
-
----
-
 ## 📫 Let’s Connect  
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/vanshikaa-jindal  
