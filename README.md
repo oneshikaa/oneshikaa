@@ -1,52 +1,102 @@
-# Hi, I'm Vanshikaa Jindal! 👋
+# Hi, I’m **Vanshikaa Jindal** 👋  
 
-🔍 **Software Developer | Machine Learning Enthusiast**
-
----
-
-## 🚀 About Me
-
-- 🎓 **Computer Engineering** student at Thapar Institute of Engineering and Technology
-- 🌱 Currently learning about **Web Development** and **NLP**
+🚀 **Applied ML | Data Science | GenAI | NLP | Computer Vision**
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🎓 About Me  
 
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+- **B.E. in Computer Engineering**, Thapar Institute of Engineering & Technology (CGPA: 8.14)  
+- Passionate about **Machine Learning, NLP, Computer Vision, and GenAI Systems**  
+- Interested in **production-ready ML, causal analytics, and AI research**  
+- Actively exploring **open-source contributions in ML/MLOps and AI tooling**
 
 ---
 
-## 📈 GitHub Stats
+## 🔬 Research  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oneshikaa&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oneshikaa&layout=compact&theme=radical)
+### **Real-Time Hospital Queue Management Tool (ICDAM 2025, London)**  
+📄 *Published Paper:* https://www.researchgate.net/publication/396917311  
 
----
-
-## 🌟 Featured Projects
-
-- **[Handwritten Text Recognition](https://github.com/oneshikaa/Handwritten-Text-Recognition)**: Leveraged KNN to classify handwritten digits with 98.2% accuracy.
-- **[BBC News Multiclass Classifier](https://github.com/oneshikaa/BBC-News-Classifier)**: Built a multiclass classifier for BBC news articles with 98% accuracy.
-- **[LMS Platform](https://github.com/oneshikaa/LMS-Platform)**: Developed a Learning Management System using Django and JavaScript.
+- Built a real-time computer vision system using **YOLOv8-seg + SORT tracking**  
+- Achieved **0.557 AP and 15 FPS** for real-time patient tracking  
+- Implemented **Kalman Filtering + Hungarian Algorithm** for identity persistence  
+- Benchmarked multiple YOLO architectures (v5s6, v5m6, v5x6, v8)
 
 ---
 
-## 📫 Connect with Me
+## 🧠 Key Projects  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vanshikaa-jindal)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/oneshikaa)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/vanshikaa/)
+### **Government Scheme Research Tool (RAG-based GenAI App)**  
+🔗 https://github.com/oneshikaa/scheme-research-tool  
+
+**Tech:** Python, Streamlit, FAISS, LangChain, OpenAI APIs  
+
+- Built an end-to-end **RAG system** over government policy documents  
+- Implemented semantic search using **FAISS vector database**  
+- Designed automated data ingestion with **BeautifulSoup + embeddings**  
+- Orchestrated multi-step reasoning using **LangChain**
 
 ---
 
-*Thanks for stopping by! Feel free to reach out if you want to collaborate on any project or just want to chat!* 😊
+### **Handwritten Digit Recognition (KNN)**  
+🔗 https://github.com/oneshikaa/Handwritten-Text-Recognition  
+
+- Built a complete ML pipeline for digit classification  
+- Achieved **98.2% accuracy**  
+- Focused on preprocessing, feature engineering, and evaluation
+
+---
+
+### **BBC News Multiclass Classifier**  
+🔗 https://github.com/oneshikaa/BBC-News-Classifier  
+
+- NLP-based text classification across multiple news categories  
+- Used feature extraction + ML models  
+- Achieved **~98% accuracy**
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages & Data**
+- Python • SQL • C++
+
+**ML & AI**
+- PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • Transformers (BERT)
+
+**GenAI & NLP**
+- OpenAI APIs • LangChain • FAISS • RAG • Embeddings
+
+**Cloud & Analytics**
+- Google Cloud (BigQuery)
+
+---
+
+## 🌱 What I’m Working On  
+
+- Contributing to **open-source ML/MLOps tools**  
+- Building **small AI products** for real-world use cases  
+- Strengthening skills in:
+  - Experiment tracking  
+  - Model deployment  
+  - Production ML workflows  
+
+---
+
+## 🏆 Achievements  
+
+- **Top 10% Academic Standing** at Thapar Institute  
+- **Merit Scholarship (₹1.2L tuition waiver)**  
+
+---
+
+## 📫 Let’s Connect  
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/vanshikaa-jindal  
+🐙 **GitHub:** https://github.com/oneshikaa  
+💡 **LeetCode:** https://leetcode.com/u/vanshikaa  
+
+Open to collaboration on ML, NLP, CV, and GenAI projects!
+
+---
