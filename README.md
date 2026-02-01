@@ -40,7 +40,7 @@
 ---
 
 ### **Handwritten Digit Recognition (KNN)**  
-🔗 https://github.com/oneshikaa/Handwritten-Text-Recognition  
+🔗 https://github.com/oneshikaa/Hand_Written_Text_Recognition
 
 - Built a complete ML pipeline for digit classification  
 - Achieved **98.2% accuracy**  
@@ -49,7 +49,7 @@
 ---
 
 ### **BBC News Multiclass Classifier**  
-🔗 https://github.com/oneshikaa/BBC-News-Classifier  
+🔗 https://github.com/oneshikaa/ML_Project_SEM5
 
 - NLP-based text classification across multiple news categories  
 - Used feature extraction + ML models  
